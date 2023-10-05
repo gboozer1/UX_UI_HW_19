@@ -1,0 +1,254 @@
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    overflow-x: hidden; 
+}  
+.navContent {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.LinkedIn {
+    height:30px;
+    padding-top:5px;
+    margin-left:1095px;
+}
+.nav-item {
+    font-size:17px;
+}
+.col-md-6 {
+    padding:30px;
+}
+h2 {
+    padding-top:75px;
+    padding-left:50px;
+}
+.herotitle {
+    padding-top:50px;
+    padding:50px;
+}
+h3 {
+    padding-left:50px;
+    padding-bottom:50px;
+}
+img.gaby {
+    width: 100% !important;
+    height:auto;
+}
+@media screen and (min-width: 480px) {
+    .pull-right {
+        display: flex;
+        justify-content: right;
+      }
+  }
+.jumbo {
+    padding-bottom: 80px;
+}
+.btn-outline-secondary-hm:hover {
+    background-color:black;
+    color:white;
+}
+.btn-outline-secondary-hm {
+    font-size:18px;
+    background-color:white;
+    color:black;
+    border-color:black;
+    height:50px;
+    width:200px;
+    margin-left:50px;
+    padding-top:10px;
+}
+.btn-outline-secondary-vmw:hover {
+    background-color:white;
+    color:black;
+    border-color:black;
+}
+.btn-outline-secondary-vmw {
+    font-size:18px;
+    background-color:black;
+    color:white;
+    height:50px;
+    width:200px;
+    scroll-behavior: smooth;
+    margin-left:50px;
+    padding-top:10px;
+}
+.title {
+    text-align:center;
+    padding-top:40px;
+}
+h5 {
+    text-align:center;
+    padding-bottom:30px;
+}
+.container {
+    padding-top:75px;
+}
+.myWork {
+    background-color:black;
+    color:white;
+    padding-bottom: 100px;
+}
+.actualWork {
+    padding-top: 20px !important;
+}
+.card {
+    height:300px;
+    margin-top:20px;
+    width:1000px;
+    margin-left:150px;
+}
+.card-title {
+   padding-top:0px;
+   padding-left:20px;
+}
+.card-text {
+    padding:20px;
+    font-size:20px;
+    font-style:bold;
+}
+.vertical-center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.rounded {
+    width:100%;
+    height:300px;
+}
+.btn-outline-secondary-case {
+    border-color:black;
+    color:black;
+    font-size:18px;
+    height:50px;
+    width:200px;
+    margin-left:20px;
+}
+.btn-outline-secondary-case:hover {
+    background-color:black;
+    color:white;
+}
+.flexContainer {
+    display:flex;
+    justify-content: center;
+    color:white;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+@media screen and (max-width: 480px) {
+    .flexContainer {
+        flex-wrap: wrap;
+    }
+  }
+
+.flexItem {
+    border-right: solid white 1px;
+    background-color:black;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.flexContainer h5 {
+    text-align: center;
+    font-size:24px;
+    padding:5px;
+}
+.flexContainer p {
+    font-size:20px;
+    padding:20px;
+}
+.flexContainer .caption {
+    font-size:14px;
+    padding:20px;
+}
+.skillsIcon {
+    height:200px;
+    margin-left:120px;
+    padding:30px;
+}
+.mySkills {
+    color:white;
+}
+.skillsB {
+    padding-top:50px;
+}
+.btn-outline-secondary-vm {
+    border-color:white;
+    color:white;
+    font-size:18px;
+    height:50px;
+    width:200px;
+}
+.btn-outline-secondary-vm:hover {
+    background-color:white;
+    color:black;
+}
+.btn-outline-secondary-vms {
+    border-color:white;
+    color:black;
+    font-size:18px;
+    height:50px;
+    width:200px;
+    border-color:black;
+}
+.btn-outline-secondary-vms:hover {
+    background-color:black;
+    color:white;
+}
+.skillstitle {
+    color:black;
+}
+.myRcoms {
+    height:575px;
+}
+.subtitle {
+
+    text-align:center;
+}
+.rec {
+    padding:20px;
+}
+.name {
+    padding-bottom:10px;
+}
+.recimg {
+    height:20px;
+}
+.arrow {
+    height:20px;
+    margin-top:60px;
+}
+.footer {
+    background-color:black;
+    color:white;
+    height:300px;
+}
+h5 {
+    padding:10px;
+}
+.text-center {
+    padding:40px;
+}
+.btn-outline-secondary-contact {
+    background-color:white;
+    color:black;
+    font-size:18px;
+    width:300px;
+    height:50px;
+}
+.btn-outline-secondary-contact:hover {
+    background-color:black;
+    color:white;
+    border-color:white;
+}
+.contactimg {
+    height:15px;
+    margin-left:15px;
+}
+.titler {
+    text-align: center;
+    padding-top:75px;
+}
